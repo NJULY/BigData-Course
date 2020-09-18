@@ -1,0 +1,2 @@
+Hadoop jar /home/2020st01/lab3.jar /data/exercise_3 /user/2020st01/lab3Output
+运行时不需要指定主类

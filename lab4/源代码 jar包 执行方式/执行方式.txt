@@ -1,0 +1,5 @@
+hadoop jar /home/2020st01/lab4.jar /data/exercise_4 /user/2020st01/lab4Output
+
+hadoop jar /home/2020st01/FinalProject.jar /MP_Data/task1/JN1_LOG/2015-09-08.log /user/2020st01/FinalOuput1 /user/2020st01/FinalOuput2 /user/2020st01/FinalOuput3 /user/2020st01/FinalOuput4
+hadoop jar /home/2020st01/Final_Task5.jar /MP_Data/task1/JN1_LOG /user/2020st01/FinalOutput5
+

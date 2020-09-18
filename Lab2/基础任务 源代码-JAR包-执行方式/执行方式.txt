@@ -1,0 +1,7 @@
+执行方式为: hadoop jar jar包路径 输入路径 输出路径
+假设jar包存放位置为 /home/2020st01/lab2code.jar
+      输入路径为 /data/exercise_2
+      输出路径为 /user/2020st01/output
+则执行命令为 hadoop jar /home/2020st01/lab2code.jar /data/exercise_2 /user/2020st01/output
+
+由于在打包时指定了主类, 不需要在指令中指明

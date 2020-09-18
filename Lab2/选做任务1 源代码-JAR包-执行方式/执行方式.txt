@@ -1,0 +1,8 @@
+执行方式为: hadoop jar jar包路径 输入路径 输出路径 partition文件路径
+假设jar包存放位置为 /home/2020st01/lab2codeplus1.jar
+      输入路径为 /user/2020st01/output
+      输出路径为 /user/2020st01/output1
+      partition文件路径为 /user/2020st01/partitionFile.lst
+则执行命令为 hadoop jar /home/2020st01/lab2codeplus1.jar /user/2020st01/output /user/2020st01/output1 /user/2020st01/partitionFile.lst
+
+由于在打包时指定了主类, 不需要在指令中指明
